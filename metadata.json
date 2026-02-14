@@ -1,0 +1,5 @@
+{
+  "name": "LOOKEra Studio",
+  "description": "A high-performance AI image generation tool leveraging Gemini Nano Banana models. Features multi-reference mixing and single-variant generation with a clean, mobile-first aesthetic.",
+  "requestFramePermissions": []
+}
